@@ -1,21 +1,35 @@
 {
   "images" : [
     {
-      "idiom" : "universal",
-      "filename" : "background.png",
-      "scale" : "1x"
+      "filename" : "DALL·E 2024-08-25 15.05.30 - A serene, dreamy landscape that combines elements of light, stars, and weather in a vertical composition. The sky is filled with softly glowing stars, copy 1.jpg",
+      "idiom" : "universal"
     },
     {
-      "idiom" : "universal",
-      "scale" : "2x"
+      "appearances" : [
+        {
+          "appearance" : "luminosity",
+          "value" : "light"
+        }
+      ],
+      "filename" : "DALL·E 2024-08-25 15.05.30 - A serene, dreamy landscape that combines elements of light, stars, and weather in a vertical composition. The sky is filled with softly glowing stars, copy.jpg",
+      "idiom" : "universal"
     },
     {
-      "idiom" : "universal",
-      "scale" : "3x"
+      "appearances" : [
+        {
+          "appearance" : "luminosity",
+          "value" : "dark"
+        }
+      ],
+      "filename" : "dc580106-7373-41c2-8e86-74fcf4d46186 copy.jpg",
+      "idiom" : "universal"
     }
   ],
   "info" : {
-    "version" : 1,
-    "author" : "xcode"
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "preserves-vector-representation" : true
   }
 }
