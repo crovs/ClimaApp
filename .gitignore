@@ -1,6 +1,9 @@
+<<<<<<< HEAD
 .DS_Store
 
 
+=======
+>>>>>>> origin/main
 # Xcode
 #
 # gitignore contributors: remember to update Global/Xcode.gitignore, Objective-C.gitignore & Swift.gitignore
@@ -62,4 +65,8 @@ Carthage/Build/
 fastlane/report.xml
 fastlane/Preview.html
 fastlane/screenshots/**/*.png
+<<<<<<< HEAD
 fastlane/test_output
+=======
+fastlane/test_output
+>>>>>>> origin/main
